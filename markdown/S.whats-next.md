@@ -43,7 +43,7 @@
 
 ## Awesome Python
 
-Github 上的 “居民” 现在已经养成了一个惯例，无论什么好东西，他们都会为其只做一个 “Awesome ...” 的页面，在里面齐心协力搜集相关资源。比如，你想学 Golang，那你去 Google 搜索 [`Awesome Go`](https://www.google.com/search?q=awesome+go)，一定会给你指向到一个 Github 上的 “Awesome Go” 的页面…… 
+Github 上的 “居民” 现在已经养成了一个惯例，无论什么好东西，他们都会为其制作一个 “Awesome ...” 的页面，在里面齐心协力搜集相关资源。比如，你想学 Golang，那你去 Google 搜索 [`Awesome Go`](https://www.google.com/search?q=awesome+go)，一定会给你指向到一个 Github 上的 “Awesome Go” 的页面…… 
 
 以下是 Awesome Python 的链接：
 
@@ -73,20 +73,20 @@ Github 上的 “居民” 现在已经养成了一个惯例，无论什么好�
 
 ## Introduction
 
-![Web Developer Roadmap Introduction](../images/intro.png)
+![Web Developer Roadmap Introduction](https://github.com/selfteaching/the-craft-of-selfteaching/blob/master/images/intro.png)
 
 
 ## Frontend Roadmap
 
-![Frontend Roadmap](../images/frontend.png)
+![Frontend Roadmap](https://github.com/selfteaching/the-craft-of-selfteaching/blob/master/images/frontend.png)
 
 ## Back-end Roadmap
 
-![Back-end Roadmap](../images/backend.png)
+![Back-end Roadmap](https://github.com/selfteaching/the-craft-of-selfteaching/blob/master/images/backend.png)
 
 ## DevOps Roadmap
 
-![DevOps Roadmap](../images/devops.png)
+![DevOps Roadmap](https://github.com/selfteaching/the-craft-of-selfteaching/blob/master/images/devops.png)
 
 
 路漫漫其修远兮…… 

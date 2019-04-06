@@ -25,7 +25,7 @@ print()
     1, 2, 3, 4, 5, 
 
 
-有个内建函数，就是用来把一个对象转换成 “可迭代对象” 的 —— `iter()`。
+有个内建函数，就是用来把一个 “可迭代对象”（Iterable）转换成 “迭代器” （Iterator）的 —— `iter()`。
 ```python
 from IPython.core.interactiveshell import InteractiveShell
 InteractiveShell.ast_node_interactivity = "all"
@@ -43,7 +43,7 @@ type(L)
 
 
 
-可迭代对象如何使用呢？有个 `next()` 函数：
+迭代器如何使用呢？有个 `next()` 函数：
 ```python
 from IPython.core.interactiveshell import InteractiveShell
 InteractiveShell.ast_node_interactivity = "all"
@@ -306,7 +306,7 @@ a_func()
 
 于是，函数本身其实可以与其它的数据类型一样，作为其它函数的参数或者返回值。
 
-让我们分步走 —— 注意，在以下代码中，`a_decorator` 返回的一个函数的调用 `wrapper()` 而不是 `wrapper` 这个函数本身：
+让我们分步走 —— 注意，在以下代码中，`a_decorator` 返回的是一个函数的调用 `wrapper()` 而不是 `wrapper` 这个函数本身：
 ```python
 def a_decorator(func):
     def wrapper():
